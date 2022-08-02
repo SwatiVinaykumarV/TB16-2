@@ -17,7 +17,8 @@ public class Demo
 	{
 		System.out.println("Hello Github");
 		System.out.println("Done");
-		
+		Demo d=new Demo();
+		d.m1();
 	}
 
 }
